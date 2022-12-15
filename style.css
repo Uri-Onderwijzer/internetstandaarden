@@ -1,0 +1,57 @@
+body{
+    background-image: url(https://static.posters.cz/image/750webp/41730.webp);
+    background-size: cover;
+    margin: 0%;
+}
+
+h1 {
+text-align: center;
+color: white;
+}
+
+
+header{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+
+header nav ul{
+    font-size:x-large;
+    width: 80vw;
+    display: flex;
+    list-style-type: none; 
+    gap: 4em;
+    justify-content: center;
+}
+
+
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: gray;
+}
+
+header nav ul li:nth-of-type(3){
+    font-size: xx-large;
+    color: white;
+
+}
+
+
+p {
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: x-large;
+    border: solid 2px black;
+}
+
