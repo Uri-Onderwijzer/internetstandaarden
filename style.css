@@ -72,3 +72,12 @@ p {
     font-size: x-large;
     border: solid 2px black; 
 }
+
+.listleagues{
+    color: blue;
+    text-decoration: underline;
+}
+
+.listleagues:hover{
+    color:rgb(49, 121, 228);
+}
