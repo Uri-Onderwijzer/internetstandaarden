@@ -81,3 +81,16 @@ p {
 .listleagues:hover{
     color:rgb(49, 121, 228);
 }
+
+img {
+    max-width: 15%;
+    margin-left: 3%;
+}
+
+footer {
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 10%;
+}
