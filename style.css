@@ -89,8 +89,66 @@ img {
 
 footer {
     background-color: black;
-    position: fixed;
-    bottom: 0;
+    position: sticky;
+    min-height: 10vh;
     width: 100%;
     height: 10%;
+    margin-top: auto;
+}
+
+img.groter {
+margin-left: 25%;
+}
+
+.menufotos {
+    display: flex;
+    color: white;
+    font-size: xx-large;
+    font-family: fantasy;
+    -webkit-text-stroke: 2px black;
+    gap: 4em;
+    margin-left: 3%;
+    margin-right: 3%; 
+    list-style-type: none;   
+}
+
+.competities {
+    background-image: url(https://www.mancity.com/meta/media/2f4iyq3r/trophy-lift-overlay.jpg?width=1280);
+    background-size: cover;
+    border: solid red 2px;
+    padding-top: 80px;
+    padding-right: 50px;
+    padding-bottom: 80px;
+    padding-left: 50px;
+    
+}
+
+.EC {
+    background-image: url(https://d2x51gyc4ptf2q.cloudfront.net/content/uploads/2022/05/28231015/Real-Madrid-lift-the-Champions-League.jpg);
+    background-size: cover;
+    border: solid red 2px;
+    padding-top: 80px;
+    padding-right: 50px;
+    padding-bottom: 80px;
+    padding-left: 50px;
+}
+
+.IC {
+    background-image: url(https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2022-12/221218-argentina-world-cup-trophy-jm-1353-bd9669.jpg);
+    background-size: cover;
+    border: solid red 2px;
+    padding-top: 80px;
+    padding-right: 50px;
+    padding-bottom: 80px;
+    padding-left: 50px;
+}
+
+.Regels {
+    background-image: url(https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/07/31/18/red-card.jpg?quality=75&width=990&auto=webp&crop=982:726,smart);
+    background-size: cover;
+    border: solid red 2px;
+    padding-top: 80px;
+    padding-right: 50px;
+    padding-bottom: 80px;
+    padding-left: 50px;
 }

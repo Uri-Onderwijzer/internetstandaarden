@@ -1,0 +1,2 @@
+Bron: Hiervan heb ik de code:  -webkit-text-stroke: 2px black; gehaald.
+https://stackoverflow.com/questions/2570972/css-font-border
