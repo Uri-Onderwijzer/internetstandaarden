@@ -2,3 +2,7 @@ Bron: Hiervan heb ik de code:  -webkit-text-stroke: 2px black; gehaald.
 https://stackoverflow.com/questions/2570972/css-font-border
 
 Bron voor de flexbox: Meneer Nieskens in de les
+
+
+footer die plak aan de onderkant van het scherm.
+Bron: https://youtu.be/yc2olxLgKLk
